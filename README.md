@@ -4,7 +4,7 @@ Description: This project was made for learning how to signal WebRTC SDPs using 
 
 Installation: Go to your desired folder.
 
-Run the command: git clone https://github.com/Abhinav-Patidar/Video-Chat-Website-Django.github.io
+Run the command: git clone https://github.com/Abhinav-Patidar/Video-Chat-Website-Django.github.io.git
 
 Go to the directory with requirements.txt.
 
